@@ -1,0 +1,385 @@
+{"response_code":0,"results":
+
+[
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "easy",
+        "question": "Which of the following is the correct syntax to declare a variable in C++?",
+        "correct_answer": "int x;",
+        "incorrect_answers": ["variable x;", "x = int;", "declare x;"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "medium",
+        "question": "What is the result of 5 + 3 * 2 in C++?",
+        "correct_answer": "11",
+        "incorrect_answers": ["16", "13", "10"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "easy",
+        "question": "Which C++ keyword is used to create an alias for a data type?",
+        "correct_answer": "typedef",
+        "incorrect_answers": ["define", "alias", "type"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "medium",
+        "question": "What does the '++' operator do in C++?",
+        "correct_answer": "Increment by 1",
+        "incorrect_answers": ["Decrement by 1", "Multiply by 2", "Divide by 2"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "easy",
+        "question": "Which header file is needed for input and output operations in C++?",
+        "correct_answer": "#include <iostream>",
+        "incorrect_answers": ["#include <stdio.h>", "#include <io.h>", "#include <iostream.h>"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "medium",
+        "question": "What is the size of the 'char' data type in C++?",
+        "correct_answer": "1 byte",
+        "incorrect_answers": ["2 bytes", "4 bytes", "8 bytes"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "easy",
+        "question": "Which operator is used for performing input in C++?",
+        "correct_answer": ">>",
+        "incorrect_answers": ["=", "<", "+"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "medium",
+        "question": "What is the correct syntax for a 'switch' statement in C++?",
+        "correct_answer": "switch (expression) { case constant: code; break; default: code; }",
+        "incorrect_answers": [
+            "switch { expression: case constant: code; default: code; }",
+            "switch (expression) { case constant: code; default: code; }",
+            "switch (expression) { case constant: code; break; case constant2: code; break; default: code; }"
+        ]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "easy",
+        "question": "Which loop is used to iterate over a range of values in C++?",
+        "correct_answer": "for",
+        "incorrect_answers": ["while", "do-while", "foreach"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "medium",
+        "question": "Which of the following is a valid C++ identifier?",
+        "correct_answer": "myVariable",
+        "incorrect_answers": ["123variable", "my variable", "my-variable"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "easy",
+        "question": "What is the main function's return type in C++?",
+        "correct_answer": "int",
+        "incorrect_answers": ["void", "float", "char"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "medium",
+        "question": "What is the correct way to dynamically allocate memory in C++?",
+        "correct_answer": "new",
+        "incorrect_answers": ["malloc", "alloc", "allocate"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "easy",
+        "question": "Which operator is used for logical 'AND' in C++?",
+        "correct_answer": "&&",
+        "incorrect_answers": ["&", "||", "!"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "medium",
+        "question": "What is the output of the following code snippet?\n\nint x = 10;\ncout << (x++ * 2);",
+        "correct_answer": "20",
+        "incorrect_answers": ["22", "10", "21"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "easy",
+        "question": "Which C++ keyword is used to define a class?",
+        "correct_answer": "class",
+        "incorrect_answers": ["define", "type", "struct"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "medium",
+        "question": "What is the correct syntax for defining a member function outside the class in C++?",
+        "correct_answer": "returnType className::functionName() { code; }",
+        "incorrect_answers": [
+            "className::functionName() { returnType code; }",
+            "functionName() { code; }",
+            "returnType functionName() { className::code; }"
+        ]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "easy",
+        "question": "What is the extension of C++ source files?",
+        "correct_answer": ".cpp",
+        "incorrect_answers": [".c", ".h", ".exe"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "medium",
+        "question": "What is the output of the following code snippet?\n\nint x = 5;\nint y = x++;\ncout << y;",
+        "correct_answer": "5",
+        "incorrect_answers": ["6", "4", "0"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "easy",
+        "question": "Which C++ keyword is used to indicate the end of a statement block?",
+        "correct_answer": "}",
+        "incorrect_answers": [";", "{", ":"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "medium",
+        "question": "What is the correct syntax to create an object of a class in C++?",
+        "correct_answer": "className objectName;",
+        "incorrect_answers": ["class objectName = new className;", "objectName = className();", "className();"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "easy",
+        "question": "Which C++ keyword is used to define a constant value?",
+        "correct_answer": "const",
+        "incorrect_answers": ["constant", "var", "let"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "medium",
+        "question": "What is the output of the following code snippet?\n\nint x = 2;\nint y = 3;\ncout << (x > y ? x : y);",
+        "correct_answer": "3",
+        "incorrect_answers": ["2", "true", "false"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "easy",
+        "question": "What is the correct way to include the contents of a header file in C++?",
+        "correct_answer": "#include <filename>",
+        "incorrect_answers": ["include <filename>", "#include \"filename\"", "import filename"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "medium",
+        "question": "What is the output of the following code snippet?\n\nint x = 5;\nint y = ++x;\ncout << y;",
+        "correct_answer": "6",
+        "incorrect_answers": ["5", "4", "0"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "easy",
+        "question": "What is the correct syntax for a single-line comment in C++?",
+        "correct_answer": "//",
+        "incorrect_answers": ["/*", "#", "--"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "medium",
+        "question": "What is the output of the following code snippet?\n\nint x = 5;\nint y = 3;\ncout << (x += y);",
+        "correct_answer": "8",
+        "incorrect_answers": ["15", "3", "5"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "easy",
+        "question": "Which C++ keyword is used to define a function?",
+        "correct_answer": "void",
+        "incorrect_answers": ["function", "define", "func"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "medium",
+        "question": "What is the output of the following code snippet?\n\nint x = 10;\nint y = 5;\nif (x > y) { cout << \"x is greater\"; } else { cout << \"y is greater\"; }",
+        "correct_answer": "x is greater",
+        "incorrect_answers": ["y is greater", "Both x and y are equal", "None of the above"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "easy",
+        "question": "What is the correct way to access the nth element of an array named 'arr' in C++?",
+        "correct_answer": "arr[n]",
+        "incorrect_answers": ["arr.n", "arr[n-1]", "arr->n"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "medium",
+        "question": "What is the output of the following code snippet?\n\nint arr[5] = {1, 2, 3, 4, 5};\nfor (int i = 0; i < 5; i++) { cout << arr[i] << \" \"; }",
+        "correct_answer": "1 2 3 4 5",
+        "incorrect_answers": ["5 4 3 2 1", "1 3 5 2 4", "1 1 1 1 1"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "easy",
+        "question": "What is the correct syntax to declare a pointer in C++?",
+        "correct_answer": "int *ptr;",
+        "incorrect_answers": ["int ptr;", "int ptr();", "pointer int;"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "medium",
+        "question": "What is the output of the following code snippet?\n\nint arr[] = {1, 2, 3, 4, 5};\nint *ptr = arr;\ncout << *ptr;",
+        "correct_answer": "1",
+        "incorrect_answers": ["5", "12345", "2"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "easy",
+        "question": "Which C++ keyword is used to define a class member as public?",
+        "correct_answer": "public",
+        "incorrect_answers": ["private", "protected", "class"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "medium",
+        "question": "What is the output of the following code snippet?\n\nint x = 5;\ncout << (x > 3 ? \"Yes\" : \"No\");",
+        "correct_answer": "Yes",
+        "incorrect_answers": ["No", "True", "False"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "easy",
+        "question": "What is the correct way to include the contents of a standard library in C++?",
+        "correct_answer": "#include <library>",
+        "incorrect_answers": ["import <library>", "#include <standard>", "include <library>"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "medium",
+        "question": "What is the output of the following code snippet?\n\nint x = 5;\nint y = 3;\ncout << (x == y ? \"Equal\" : \"Not Equal\");",
+        "correct_answer": "Not Equal",
+        "incorrect_answers": ["Equal", "True", "False"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "easy",
+        "question": "What is the correct way to initialize an array in C++?",
+        "correct_answer": "int arr[5] = {1, 2, 3, 4, 5};",
+        "incorrect_answers": ["int arr[5]; arr = {1, 2, 3, 4, 5};", "int arr[] = {1, 2, 3, 4, 5};", "arr[5] = {1, 2, 3, 4, 5};"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "medium",
+        "question": "What is the output of the following code snippet?\n\nint x = 5;\nint y = 3;\ncout << (x < y ? x : y);",
+        "correct_answer": "3",
+        "incorrect_answers": ["5", "6", "0"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "easy",
+        "question": "What is the correct syntax to declare a constant pointer in C++?",
+        "correct_answer": "int *const ptr;",
+        "incorrect_answers": ["const *int ptr;", "const ptr *int;", "int const *ptr;"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "medium",
+        "question": "What is the output of the following code snippet?\n\nint x = 10;\nint y = 5;\nif (x < y) { cout << \"x is less\"; } else if (x > y) { cout << \"x is greater\"; } else { cout << \"x and y are equal\"; }",
+        "correct_answer": "x is greater",
+        "incorrect_answers": ["x is less", "x and y are equal", "None of the above"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "easy",
+        "question": "Which C++ keyword is used to exit a loop?",
+        "correct_answer": "break",
+        "incorrect_answers": ["exit", "continue", "return"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "medium",
+        "question": "What is the output of the following code snippet?\n\nint x = 5;\nint y = 3;\ncout << (x == y);",
+        "correct_answer": "0",
+        "incorrect_answers": ["1", "True", "False"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "easy",
+        "question": "What is the correct way to declare a function prototype in C++?",
+        "correct_answer": "returnType functionName(parameters);",
+        "incorrect_answers": ["functionName(parameters) returnType;", "returnType functionName;", "parameters functionName(returnType);"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "medium",
+        "question": "What is the output of the following code snippet?\n\nint x = 5;\nint y = 3;\ncout << (x || y);",
+        "correct_answer": "1",
+        "incorrect_answers": ["0", "True", "False"]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "easy",
+        "question": "What is the correct syntax to define a class member function outside the class definition in C++?",
+        "correct_answer": "returnType className::functionName() { code; }",
+        "incorrect_answers": [
+            "className::functionName() { returnType code; }",
+            "functionName() { code; }",
+            "returnType functionName() { className::code; }"
+        ]
+    },
+    {
+        "type": "multiple",
+        "category": "C++",
+        "difficulty": "medium",
+        "question": "What is the output of the following code snippet?\n\nint x = 5;\nint y = 3;\ncout << (x && y);",
+        "correct_answer": "1",
+        "incorrect_answers": ["0", "True", "False"]
+    }
+]
+}

@@ -1,0 +1,153 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "category": "Sunil's Pocket Money",
+      "difficulty": "easy",
+      "question": "What percentage of his weekly pocket money has Sunil already spent?",
+      "correct_answer": "12 1/2%",
+      "incorrect_answers": ["12 1/3%", "12 3/4%", "14 4/5%"]
+    },
+    {
+      "type": "multiple",
+      "category": "Sumit's Salary",
+      "difficulty": "medium",
+      "question": "What is the salary Sumit received at the start of the month?",
+      "correct_answer": "Rs. 1200",
+      "incorrect_answers": ["Rs. 850", "Rs. 1000", "Rs. 800"]
+    },
+    {
+      "type": "multiple",
+      "category": "Akshay's Income Tax",
+      "difficulty": "easy",
+      "question": "On which amount was the fine imposed?",
+      "correct_answer": "Rs. 5000",
+      "incorrect_answers": ["Rs. 8000", "Rs. 7000", "Rs. 6000"]
+    },
+    {
+      "type": "multiple",
+      "category": "Noida's Population",
+      "difficulty": "medium",
+      "question": "What was the population of Noida three years back?",
+      "correct_answer": "15624",
+      "incorrect_answers": ["15625", "15627", "15626"]
+    },
+    {
+      "type": "multiple",
+      "category": "Modipuram's Population",
+      "difficulty": "easy",
+      "question": "What is the current population of females in the Modipuram area?",
+      "correct_answer": "3500",
+      "incorrect_answers": ["3000", "4500", "4000"]
+    },
+    {
+      "type": "multiple",
+      "category": "Rice Purchasing",
+      "difficulty": "medium",
+      "question": "By how much percent should Anjali reduce the purchasing of rice?",
+      "correct_answer": "16 2/3%",
+      "incorrect_answers": ["16 1/3%", "16 1/4%", "16 2/5%"]
+    },
+    {
+      "type": "multiple",
+      "category": "Salary Difference",
+      "difficulty": "easy",
+      "question": "How much percent is Shyaam’s salary less than that of Raju?",
+      "correct_answer": "20%",
+      "incorrect_answers": ["12%", "30%", "25%"]
+    },
+    {
+      "type": "multiple",
+      "category": "Workers' Salary",
+      "difficulty": "medium",
+      "question": "What is the final change in the workers' salary?",
+      "correct_answer": "1%",
+      "incorrect_answers": ["2%", "0%", "1.5%"]
+    },
+    {
+      "type": "multiple",
+      "category": "Rajesh's Salary",
+      "difficulty": "easy",
+      "question": "What is the final change in Rajesh's salary?",
+      "correct_answer": "4.5%",
+      "incorrect_answers": ["4%", "3.5%", "5%"]
+    },
+    {
+      "type": "multiple",
+      "category": "GST Revisions",
+      "difficulty": "medium",
+      "question": "What is the effect on revenue due to the new revisions?",
+      "correct_answer": "Decreased by 8%",
+      "incorrect_answers": [
+        "Increased by 8%",
+        "Decreased by 9%",
+        "Increased by 9%"
+      ]
+    },
+    {
+      "type": "multiple",
+      "category": "Fuel Prices",
+      "difficulty": "easy",
+      "question": "What is the effect on the revenue collected by the Government?",
+      "correct_answer": "Profit 4.5%",
+      "incorrect_answers": ["Loss 4%", "Profit 3%", "Loss 3.5%"]
+    },
+    {
+      "type": "multiple",
+      "category": "PVR Cinemas",
+      "difficulty": "medium",
+      "question": "What is the effect on the revenue collected?",
+      "correct_answer": "Increase of 37.5%",
+      "incorrect_answers": [
+        "Decrease of 37.5%",
+        "Increase of 38%",
+        "Decrease of 38%"
+      ]
+    },
+    {
+      "type": "multiple",
+      "category": "Ajaatshatru's Savings",
+      "difficulty": "easy",
+      "question": "What is the percentage increase in Ajaatshatru's savings?",
+      "correct_answer": "40%",
+      "incorrect_answers": ["10%", "50%", "25%"]
+    },
+    {
+      "type": "multiple",
+      "category": "Camp Nou Stadium",
+      "difficulty": "medium",
+      "question": "What is the percentage increase in the area of the Camp Nou stadium?",
+      "correct_answer": "Increase by 26%",
+      "incorrect_answers": [
+        "Increase by 24%",
+        "Increase by 22%",
+        "Increase by 25%"
+      ]
+    },
+    {
+      "type": "multiple",
+      "category": "Distillation Process",
+      "difficulty": "easy",
+      "question": "What was the original quantity of salt in the distillation process?",
+      "correct_answer": "110 kg",
+      "incorrect_answers": ["140 kg", "130 kg", "120 kg"]
+    },
+    {
+      "type": "multiple",
+      "category": "Library Inspection",
+      "difficulty": "medium",
+      "question": "What was the total number of books in the library?",
+      "correct_answer": "22,500",
+      "incorrect_answers": ["21,450", "25,600", "20,560"]
+    },
+    {
+      "type": "multiple",
+      "category": "Water in Alcoholic Liquid",
+      "difficulty": "easy",
+      "question": "How much water should Vaibhav add?",
+      "correct_answer": "4 l",
+      "incorrect_answers": ["6 l", "5 l", "3 l"]
+    }
+  ]
+}

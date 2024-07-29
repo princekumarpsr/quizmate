@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Congratulations!</title>
+    <link rel="stylesheet" href="./app.css" />
+    <link rel="icon" type="image/jpg" href="./assets/Congo.jpg">
+</head>
+<!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3775445581945009"
+    crossorigin="anonymous"></script> -->
+
+<body background="../logo/darkback.jpg">
+    <div class="container">
+        <div id="end" class="flex-center flex-column">
+            <!-- <h1>you got</h1> -->
+            <h1 id="finalScore">  You got below score out of 100!</h1>
+            <h1 id="finalScore"> Out of 100!</h1>
+            <ul>
+                <li><h3>plese enter your name for record</h3></li>
+            </ul>
+            <form>
+                <input type="text" name="username" id="username" placeholder="username" />
+                <button type="submit" class="btn" id="saveScoreBtn" onclick="saveHighScore(event)" disabled>
+                    Click to save
+                </button>
+            </form>
+            <a class="btn" href="./game.html">Play Again</a>
+            <a class="btn" href="./">Go Home</a>
+        </div>
+    </div>
+    <script src="./end.js"></script>
+</body>
+
+</html>

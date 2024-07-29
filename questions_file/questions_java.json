@@ -1,0 +1,253 @@
+{"response_code":0,"results":
+
+[
+    {
+        "type": "multiple",
+        "category": "Java",
+        "difficulty": "easy",
+        "question": "Which of the following statements is true about Java?",
+        "correct_answer": "Java is platform-independent.",
+        "incorrect_answers": ["Java code needs to be compiled into machine code.", "Java does not support multithreading.", "Java is a low-level language."]
+    },
+    {
+        "type": "multiple",
+        "category": "Java",
+        "difficulty": "medium",
+        "question": "What is the output of the following Java code snippet?\n\nint x = 5;\nSystem.out.println(x++);",
+        "correct_answer": "5",
+        "incorrect_answers": ["6", "4", "The code will not compile."]
+    },
+    {
+        "type": "multiple",
+        "category": "Java",
+        "difficulty": "easy",
+        "question": "Which of the following is a valid identifier in Java?",
+        "correct_answer": "myVariable",
+        "incorrect_answers": ["123variable", "my variable", "my-variable"]
+    },
+    {
+        "type": "multiple",
+        "category": "Java",
+        "difficulty": "medium",
+        "question": "What is the result of 10 / 3 in Java?",
+        "correct_answer": "3",
+        "incorrect_answers": ["3.333", "3.0", "4"]
+    },
+    {
+        "type": "multiple",
+        "category": "Java",
+        "difficulty": "easy",
+        "question": "Which keyword is used to define a subclass in Java?",
+        "correct_answer": "extends",
+        "incorrect_answers": ["implements", "subclass", "inherits"]
+    },
+    {
+        "type": "multiple",
+        "category": "Java",
+        "difficulty": "medium",
+        "question": "What does the '=='' operator check for when used with objects in Java?",
+        "correct_answer": "Reference equality",
+        "incorrect_answers": ["Value equality", "Object type", "Memory address"]
+    },
+    {
+        "type": "multiple",
+        "category": "Java",
+        "difficulty": "easy",
+        "question": "Which method is used to initialize an object in Java?",
+        "correct_answer": "Constructor",
+        "incorrect_answers": ["Initializer", "Initialize()", "ObjectInit()"]
+    },
+    {
+        "type": "multiple",
+        "category": "Java",
+        "difficulty": "medium",
+        "question": "What is the output of the following Java code snippet?\n\nString s = \"Hello\";\nSystem.out.println(s.charAt(0));",
+        "correct_answer": "H",
+        "incorrect_answers": ["e", "l", "0"]
+    },
+    {
+        "type": "multiple",
+        "category": "Java",
+        "difficulty": "easy",
+        "question": "Which data type is used to store whole numbers in Java?",
+        "correct_answer": "int",
+        "incorrect_answers": ["float", "double", "String"]
+    },
+    {
+        "type": "multiple",
+        "category": "Java",
+        "difficulty": "medium",
+        "question": "What is the output of the following Java code snippet?\n\nint x = 10;\nint y = 5;\nSystem.out.println(x > y ? x : y);",
+        "correct_answer": "10",
+        "incorrect_answers": ["5", "true", "false"]
+    },
+    {
+        "type": "multiple",
+        "category": "Java",
+        "difficulty": "easy",
+        "question": "Which keyword is used to define a method in Java?",
+        "correct_answer": "void",
+        "incorrect_answers": ["method", "define", "func"]
+    },
+    {
+        "type": "multiple",
+        "category": "Java",
+        "difficulty": "medium",
+        "question": "What is the output of the following Java code snippet?\n\nString s = \"Hello World!\";\nSystem.out.println(s.substring(0, 5));",
+        "correct_answer": "Hello",
+        "incorrect_answers": ["World", "!", "H"]
+    },
+    {
+        "type": "multiple",
+        "category": "Java",
+        "difficulty": "easy",
+        "question": "Which operator is used for logical 'AND' in Java?",
+        "correct_answer": "&&",
+        "incorrect_answers": ["&", "||", "!"]
+    },
+    {
+        "type": "multiple",
+        "category": "Java",
+        "difficulty": "medium",
+        "question": "What is the output of the following Java code snippet?\n\nint x = 5;\nint y = 3;\nSystem.out.println(x += y);",
+        "correct_answer": "8",
+        "incorrect_answers": ["15", "3", "5"]
+    },
+    {
+        "type": "multiple",
+        "category": "Java",
+        "difficulty": "easy",
+        "question": "Which keyword is used to define a constant value in Java?",
+        "correct_answer": "final",
+        "incorrect_answers": ["const", "var", "let"]
+    },
+    {
+        "type": "multiple",
+        "category": "Java",
+        "difficulty": "medium",
+        "question": "What is the output of the following Java code snippet?\n\nString s = \"Java is fun\";\nSystem.out.println(s.indexOf(\"is\"));",
+        "correct_answer": "5",
+        "incorrect_answers": ["2", "8", "-1"]
+    },
+    {
+        "type": "multiple",
+        "category": "Java",
+        "difficulty": "easy",
+        "question": "Which keyword is used to declare a class in Java?",
+        "correct_answer": "class",
+        "incorrect_answers": ["define", "type", "struct"]
+    },
+    {
+        "type": "multiple",
+        "category": "Java",
+        "difficulty": "medium",
+        "question": "What is the output of the following Java code snippet?\n\nint x = 5;\nint y = 3;\nSystem.out.println(x *= y);",
+        "correct_answer": "15",
+        "incorrect_answers": ["8", "3", "5"]
+    },
+    {
+        "type": "multiple",
+        "category": "Java",
+        "difficulty": "easy",
+        "question": "What is the correct syntax for a single-line comment in Java?",
+        "correct_answer": "//",
+        "incorrect_answers": ["/*", "#", "--"]
+    },
+    {
+        "type": "multiple",
+        "category": "Java",
+        "difficulty": "medium",
+        "question": "What is the output of the following Java code snippet?\n\nString s = \"Hello\";\nSystem.out.println(s.concat(\" World!\"));",
+        "correct_answer": "Hello World!",
+        "incorrect_answers": ["Hello", "World!", "World"]
+    },
+    {
+        "type": "multiple",
+        "category": "Java",
+        "difficulty": "easy",
+        "question": "Which keyword is used to define a method accessible by all objects of the class in Java?",
+        "correct_answer": "static",
+        "incorrect_answers": ["dynamic", "public", "private"]
+    },
+    {
+        "type": "multiple",
+        "category": "Java",
+        "difficulty": "medium",
+        "question": "What is the output of the following Java code snippet?\n\nString s = \"Hello\";\nSystem.out.println(s.toUpperCase());",
+        "correct_answer": "HELLO",
+        "incorrect_answers": ["hello", "Hello", "hello world"]
+    },
+    {
+        "type": "multiple",
+        "category": "Java",
+        "difficulty": "easy",
+        "question": "What is the correct way to declare a variable in Java?",
+        "correct_answer": "int x;",
+        "incorrect_answers": ["variable x;", "x = int;", "declare x;"]
+    },
+    {
+        "type": "multiple",
+        "category": "Java",
+        "difficulty": "medium",
+        "question": "What is the output of the following Java code snippet?\n\nint x = 10;\nint y = 5;\nSystem.out.println(x < y ? x : y);",
+        "correct_answer": "5",
+        "incorrect_answers": ["10", "true", "false"]
+    },
+    {
+        "type": "multiple",
+        "category": "Java",
+        "difficulty": "easy",
+        "question": "What is the correct way to declare a constant variable in Java?",
+        "correct_answer": "final int x = 5;",
+        "incorrect_answers": ["int constant x = 5;", "const int x = 5;", "int x = 5; final;"]
+    },
+    {
+        "type": "multiple",
+        "category": "Java",
+        "difficulty": "medium",
+        "question": "What is the output of the following Java code snippet?\n\nString s = \"Java is fun\";\nSystem.out.println(s.substring(5, 7));",
+        "correct_answer": "is",
+        "incorrect_answers": ["in", "fu", "Jav"]
+    },
+    {
+        "type": "multiple",
+        "category": "Java",
+        "difficulty": "easy",
+        "question": "Which keyword is used to define a class member as private in Java?",
+        "correct_answer": "private",
+        "incorrect_answers": ["protected", "public", "class"]
+    },
+    {
+        "type": "multiple",
+        "category": "Java",
+        "difficulty": "medium",
+        "question": "What is the output of the following Java code snippet?\n\nString s = \"Hello\";\nSystem.out.println(s.length());",
+        "correct_answer": "5",
+        "incorrect_answers": ["6", "4", "0"]
+    },
+    {
+        "type": "multiple",
+        "category": "Java",
+        "difficulty": "easy",
+        "question": "Which operator is used for concatenation of strings in Java?",
+        "correct_answer": "+",
+        "incorrect_answers": ["&", "*", "||"]
+    },
+    {
+        "type": "multiple",
+        "category": "Java",
+        "difficulty": "medium",
+        "question": "What is the output of the following Java code snippet?\n\nint x = 5;\nSystem.out.println(++x);",
+        "correct_answer": "6",
+        "incorrect_answers": ["5", "4", "The code will not compile."]
+    },
+    {
+        "type": "multiple",
+        "category": "Java",
+        "difficulty": "easy",
+        "question": "Which method is used to compare two strings for equality in Java?",
+        "correct_answer": "equals()",
+        "incorrect_answers": ["compareTo()", "compare()", "equal()"]
+    }
+]
+}

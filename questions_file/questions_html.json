@@ -1,0 +1,389 @@
+{"response_code":0,"results":
+
+[
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "easy",
+    "question": "What does HTML stand for?",
+    "correct_answer": "Hypertext Markup Language",
+    "incorrect_answers": ["Hyperlink and Text Markup Language", "Home Tool Markup Language", "Hyper Text Makeup Language"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "medium",
+    "question": "Which HTML attribute specifies an alternate text for an image if the image cannot be displayed?",
+    "correct_answer": "alt",
+    "incorrect_answers": ["src", "title", "href"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "easy",
+    "question": "What is the correct HTML element for the largest heading?",
+    "correct_answer": "<h1>",
+    "incorrect_answers": ["<heading>", "<head>", "<h6>"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "medium",
+    "question": "Which HTML element is used to define important text?",
+    "correct_answer": "<strong>",
+    "incorrect_answers": ["<important>", "<b>", "<em>"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "easy",
+    "question": "What is the correct HTML for creating a hyperlink?",
+    "correct_answer": "<a href=\"url\">link text</a>",
+    "incorrect_answers": ["<a src=\"url\">link text</a>", "<link href=\"url\">link text</link>", "<a>url</a>"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "medium",
+    "question": "Which character is used to indicate the end of an HTML tag?",
+    "correct_answer": ">",
+    "incorrect_answers": ["/", "*", "&"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "easy",
+    "question": "Which HTML element is used to define a table row?",
+    "correct_answer": "<tr>",
+    "incorrect_answers": ["<table>", "<td>", "<th>"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "medium",
+    "question": "In HTML, which attribute is used to specify that an input field must be filled out?",
+    "correct_answer": "required",
+    "incorrect_answers": ["placeholder", "validate", "necessary"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "easy",
+    "question": "What is the correct HTML for creating a checkbox?",
+    "correct_answer": "<input type=\"checkbox\">",
+    "incorrect_answers": ["<checkbox>", "<input type=\"check\">", "<check>"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "medium",
+    "question": "Which HTML element is used to define navigation links?",
+    "correct_answer": "<nav>",
+    "incorrect_answers": ["<navigation>", "<ul>", "<link>"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "easy",
+    "question": "What is the correct HTML for inserting an image?",
+    "correct_answer": "<img src=\"image.jpg\" alt=\"MyImage\">",
+    "incorrect_answers": ["<image src=\"image.jpg\" alt=\"MyImage\">", "<img href=\"image.jpg\" alt=\"MyImage\">", "<img alt=\"MyImage\">image.jpg</img>"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "medium",
+    "question": "In HTML, what does the <aside> element represent?",
+    "correct_answer": "Content aside from the page content",
+    "incorrect_answers": ["A block of code", "A subsection of the page", "An emphasized piece of text"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "easy",
+    "question": "Which HTML element defines the title of a document?",
+    "correct_answer": "<title>",
+    "incorrect_answers": ["<header>", "<meta>", "<head>"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "medium",
+    "question": "Which HTML element is used to define emphasized text?",
+    "correct_answer": "<em>",
+    "incorrect_answers": ["<italic>", "<i>", "<strong>"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "easy",
+    "question": "What is the correct HTML for adding a background color?",
+    "correct_answer": "<body style=\"background-color:yellow;\">",
+    "incorrect_answers": ["<background>yellow</background>", "<body bg=\"yellow\">", "<body background-color=\"yellow\">"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "medium",
+    "question": "Which HTML element is used to display a scalar measurement within a known range?",
+    "correct_answer": "<meter>",
+    "incorrect_answers": ["<gauge>", "<scale>", "<indicator>"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "easy",
+    "question": "What is the correct HTML for creating a dropdown list?",
+    "correct_answer": "<select>",
+    "incorrect_answers": ["<input type=\"list\">", "<dropdown>", "<option>"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "medium",
+    "question": "Which HTML element is used to define important text?",
+    "correct_answer": "<strong>",
+    "incorrect_answers": ["<important>", "<b>", "<em>"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "easy",
+    "question": "What is the correct HTML for creating a hyperlink?",
+    "correct_answer": "<a href=\"url\">link text</a>",
+    "incorrect_answers": ["<a src=\"url\">link text</a>", "<link href=\"url\">link text</link>", "<a>url</a>"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "medium",
+    "question": "What does HTML stand for?",
+    "correct_answer": "Hypertext Markup Language",
+    "incorrect_answers": ["Hyperlink and Text Markup Language", "Home Tool Markup Language", "Hyper Text Makeup Language"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "easy",
+    "question": "What is the correct HTML for inserting a line break?",
+    "correct_answer": "<br>",
+    "incorrect_answers": ["<lb>", "<break>", "<line>"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "medium",
+    "question": "What is the correct HTML for creating an email link?",
+    "correct_answer": "<a href=\"mailto:someone@example.com\">Send email</a>",
+    "incorrect_answers": ["<mail>someone@example.com</mail>", "<email>someone@example.com</email>", "<link>someone@example.com</link>"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "easy",
+    "question": "What is the correct HTML for creating a button?",
+    "correct_answer": "<button>Click me</button>",
+    "incorrect_answers": ["<input type=\"button\" value=\"Click me\">", "<button value=\"Click me\">", "<btn>Click me</btn>"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "medium",
+    "question": "Which HTML attribute specifies the base URL/target for all relative URLs in a document?",
+    "correct_answer": "href",
+    "incorrect_answers": ["target", "rel", "src"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "easy",
+    "question": "What is the correct HTML for creating a text input field?",
+    "correct_answer": "<input type=\"text\">",
+    "incorrect_answers": ["<input type=\"textfield\">", "<textfield>", "<textinput>"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "medium",
+    "question": "What is the correct HTML for making a text area?",
+    "correct_answer": "<textarea></textarea>",
+    "incorrect_answers": ["<input type=\"textarea\">", "<textbox>", "<input type=\"text\">"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "easy",
+    "question": "What is the correct HTML for creating a hyperlink?",
+    "correct_answer": "<a href=\"http://www.example.com\">Example</a>",
+    "incorrect_answers": ["<a url=\"http://www.example.com\">Example</a>", "<a name=\"http://www.example.com\">Example</a>", "<a>http://www.example.com</a>"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "medium",
+    "question": "Which HTML element is used to specify a header for a document or section?",
+    "correct_answer": "<header>",
+    "incorrect_answers": ["<section>", "<top>", "<heading>"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "easy",
+    "question": "Which HTML element defines the description list?",
+    "correct_answer": "<dl>",
+    "incorrect_answers": ["<ul>", "<ol>", "<list>"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "medium",
+    "question": "In HTML, which attribute is used to specify that an input field must be filled out?",
+    "correct_answer": "required",
+    "incorrect_answers": ["placeholder", "validate", "necessary"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "easy",
+    "question": "What is the correct HTML for adding a background color?",
+    "correct_answer": "<body style=\"background-color:yellow;\">",
+    "incorrect_answers": ["<background>yellow</background>", "<body bg=\"yellow\">", "<body background-color=\"yellow\">"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "medium",
+    "question": "What is the correct HTML for making a checkbox?",
+    "correct_answer": "<input type=\"checkbox\">",
+    "incorrect_answers": ["<check>", "<input type=\"check\">", "<checkbox>"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "easy",
+    "question": "What is the correct HTML for making a text bold?",
+    "correct_answer": "<strong>",
+    "incorrect_answers": ["<b>", "<bold>", "<important>"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "medium",
+    "question": "What does CSS stand for?",
+    "correct_answer": "Cascading Style Sheets",
+    "incorrect_answers": ["Colorful Style Sheets", "Computer Style Sheets", "Creative Style Sheets"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "easy",
+    "question": "Choose the correct HTML element for the largest heading:",
+    "correct_answer": "<h1>",
+    "incorrect_answers": ["<h6>", "<heading>", "<head>"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "medium",
+    "question": "Which HTML tag is used to define an internal style sheet?",
+    "correct_answer": "<style>",
+    "incorrect_answers": ["<css>", "<script>", "<link>"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "easy",
+    "question": "What is the correct HTML for creating a hyperlink?",
+    "correct_answer": "<a href=\"http://www.example.com\">Example</a>",
+    "incorrect_answers": ["<a url=\"http://www.example.com\">Example</a>", "<a name=\"http://www.example.com\">Example</a>", "<a>http://www.example.com</a>"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "medium",
+    "question": "Which of the following HTML elements is used to define data for each cell in a table?",
+    "correct_answer": "<td>",
+    "incorrect_answers": ["<tr>", "<table>", "<th>"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "easy",
+    "question": "What is the correct HTML for making a text italic?",
+    "correct_answer": "<em>",
+    "incorrect_answers": ["<i>", "<italic>", "<it>"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "medium",
+    "question": "What is the correct HTML for making a text subscript?",
+    "correct_answer": "<sub>",
+    "incorrect_answers": ["<s>", "<small>", "<sup>"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "easy",
+    "question": "What is the correct HTML for making a text superscript?",
+    "correct_answer": "<sup>",
+    "incorrect_answers": ["<s>", "<small>", "<sub>"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "medium",
+    "question": "What is the correct HTML for making a text strike-through?",
+    "correct_answer": "<s>",
+    "incorrect_answers": ["<strike>", "<st>", "<line>"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "easy",
+    "question": "What is the correct HTML for inserting an image?",
+    "correct_answer": "<img src=\"image.jpg\" alt=\"MyImage\">",
+    "incorrect_answers": ["<image src=\"image.jpg\" alt=\"MyImage\">", "<img href=\"image.jpg\" alt=\"MyImage\">", "<img alt=\"MyImage\">image.jpg</img>"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "medium",
+    "question": "Which HTML element is used to display a scalar measurement within a known range?",
+    "correct_answer": "<meter>",
+    "incorrect_answers": ["<gauge>", "<scale>", "<indicator>"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "easy",
+    "question": "What is the correct HTML for inserting a background image?",
+    "correct_answer": "<body style=\"background-image:url('background.jpg')\">",
+    "incorrect_answers": ["<body bg=\"background.jpg\">", "<background image='background.jpg'>", "<body style=\"background:url('background.jpg')\">"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "medium",
+    "question": "Which HTML attribute specifies an alternate text for an image if the image cannot be displayed?",
+    "correct_answer": "alt",
+    "incorrect_answers": ["src", "title", "href"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "easy",
+    "question": "What is the correct HTML for creating a hyperlink?",
+    "correct_answer": "<a href=\"url\">link text</a>",
+    "incorrect_answers": ["<a src=\"url\">link text</a>", "<link href=\"url\">link text</link>", "<a>url</a>"]
+  },
+  {
+    "type": "multiple",
+    "category": "HTML",
+    "difficulty": "medium",
+    "question": "Which character is used to indicate the end of an HTML tag?",
+    "correct_answer": ">",
+    "incorrect_answers": ["/", "*", "&"]
+  }
+]
+}

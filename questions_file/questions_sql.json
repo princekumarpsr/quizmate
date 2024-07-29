@@ -1,0 +1,378 @@
+
+{
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "category": "SQL",
+        "difficulty": "easy",
+        "question": "What does SQL stand for?",
+        "correct_answer": "Structured Query Language",
+        "incorrect_answers": [
+          "Sequential Query Language",
+          "Simple Query Language",
+          "Standardized Query Language"
+        ]
+      },
+      {
+        "type": "multiple",
+        "category": "SQL",
+        "difficulty": "medium",
+        "question": "Which SQL keyword is used to retrieve data from a database?",
+        "correct_answer": "SELECT",
+        "incorrect_answers": [
+          "GET",
+          "RETRIEVE",
+          "DATA"
+        ]
+      },
+      {
+        "type": "multiple",
+        "category": "SQL",
+        "difficulty": "easy",
+        "question": "Which SQL keyword is used to filter results?",
+        "correct_answer": "WHERE",
+        "incorrect_answers": [
+          "FILTER",
+          "SELECT",
+          "LIMIT"
+        ]
+      },
+      {
+        "type": "multiple",
+        "category": "SQL",
+        "difficulty": "medium",
+        "question": "What is the result of the following SQL query?\n\nSELECT COUNT(*) FROM employees;",
+        "correct_answer": "Number of rows in the employees table",
+        "incorrect_answers": [
+          "Number of employees",
+          "Number of columns in the employees table",
+          "Total number of entries in the employees table"
+        ]
+      },
+      {
+        "type": "multiple",
+        "category": "SQL",
+        "difficulty": "easy",
+        "question": "Which SQL keyword is used to sort data?",
+        "correct_answer": "ORDER BY",
+        "incorrect_answers": [
+          "SORT BY",
+          "GROUP BY",
+          "SORT"
+        ]
+      },
+      {
+        "type": "multiple",
+        "category": "SQL",
+        "difficulty": "medium",
+        "question": "Which SQL clause is used to group rows?",
+        "correct_answer": "GROUP BY",
+        "incorrect_answers": [
+          "SORT BY",
+          "ORDER BY",
+          "GROUP"
+        ]
+      },
+      {
+        "type": "multiple",
+        "category": "SQL",
+        "difficulty": "easy",
+        "question": "Which SQL keyword is used to remove duplicate records from the result?",
+        "correct_answer": "DISTINCT",
+        "incorrect_answers": [
+          "UNIQUE",
+          "REMOVE DUPLICATES",
+          "DUPLICATE"
+        ]
+      },
+      {
+        "type": "multiple",
+        "category": "SQL",
+        "difficulty": "medium",
+        "question": "What is the result of the following SQL query?\n\nSELECT * FROM employees WHERE age > 30;",
+        "correct_answer": "All records from the employees table where age is greater than 30",
+        "incorrect_answers": [
+          "All records from the employees table",
+          "All employees older than 30",
+          "All employees with an age column greater than 30"
+        ]
+      },
+      {
+        "type": "multiple",
+        "category": "SQL",
+        "difficulty": "easy",
+        "question": "Which SQL function is used to find the maximum value in a column?",
+        "correct_answer": "MAX()",
+        "incorrect_answers": [
+          "LARGEST()",
+          "TOP()",
+          "HIGHEST()"
+        ]
+      },
+      {
+        "type": "multiple",
+        "category": "SQL",
+        "difficulty": "medium",
+        "question": "Which SQL function is used to find the average value in a column?",
+        "correct_answer": "AVG()",
+        "incorrect_answers": [
+          "MEAN()",
+          "AVERAGE()",
+          "MEDIAN()"
+        ]
+      },
+      {
+        "type": "multiple",
+        "category": "SQL",
+        "difficulty": "easy",
+        "question": "Which SQL operator is used to specify multiple conditions in a WHERE clause?",
+        "correct_answer": "AND",
+        "incorrect_answers": [
+          "OR",
+          "NOT",
+          "BETWEEN"
+        ]
+      },
+      {
+        "type": "multiple",
+        "category": "SQL",
+        "difficulty": "medium",
+        "question": "Which SQL keyword is used to join tables?",
+        "correct_answer": "JOIN",
+        "incorrect_answers": [
+          "MERGE",
+          "COMBINE",
+          "UNION"
+        ]
+      },
+      {
+        "type": "multiple",
+        "category": "SQL",
+        "difficulty": "easy",
+        "question": "Which SQL function is used to count the number of rows in a result set?",
+        "correct_answer": "COUNT()",
+        "incorrect_answers": [
+          "TOTAL()",
+          "ROWS()",
+          "SUM()"
+        ]
+      },
+      {
+        "type": "multiple",
+        "category": "SQL",
+        "difficulty": "medium",
+        "question": "What is the result of the following SQL query?\n\nSELECT * FROM employees WHERE age BETWEEN 25 AND 35;",
+        "correct_answer": "All records from the employees table where age is between 25 and 35",
+        "incorrect_answers": [
+          "All records from the employees table",
+          "All employees aged 25 to 35",
+          "All employees with an age column between 25 and 35"
+        ]
+      },
+      {
+        "type": "multiple",
+        "category": "SQL",
+        "difficulty": "easy",
+        "question": "Which SQL keyword is used to insert data into a table?",
+        "correct_answer": "INSERT INTO",
+        "incorrect_answers": [
+          "ADD",
+          "CREATE",
+          "UPDATE"
+        ]
+      },
+      {
+        "type": "multiple",
+        "category": "SQL",
+        "difficulty": "medium",
+        "question": "Which SQL function is used to find the minimum value in a column?",
+        "correct_answer": "MIN()",
+        "incorrect_answers": [
+          "SMALLEST()",
+          "BOTTOM()",
+          "MINIMUM()"
+        ]
+      },
+      {
+        "type": "multiple",
+        "category": "SQL",
+        "difficulty": "easy",
+        "question": "Which SQL keyword is used to update data in a table?",
+        "correct_answer": "UPDATE",
+        "incorrect_answers": [
+          "MODIFY",
+          "CHANGE",
+          "EDIT"
+        ]
+      },
+      {
+        "type": "multiple",
+        "category": "SQL",
+        "difficulty": "medium",
+        "question": "Which SQL function is used to concatenate two or more strings?",
+        "correct_answer": "CONCAT()",
+        "incorrect_answers": [
+          "MERGE()",
+          "COMBINE()",
+          "JOIN()"
+        ]
+      },
+      {
+        "type": "multiple",
+        "category": "SQL",
+        "difficulty": "easy",
+        "question": "Which SQL keyword is used to delete data from a table?",
+        "correct_answer": "DELETE FROM",
+        "incorrect_answers": [
+          "REMOVE",
+          "ERASE",
+          "CLEAR"
+        ]
+      },
+      {
+        "type": "multiple",
+        "category": "SQL",
+        "difficulty": "medium",
+        "question": "What is the result of the following SQL query?\n\nSELECT * FROM employees WHERE department = 'Sales';",
+        "correct_answer": "All records from the employees table where department is 'Sales'",
+        "incorrect_answers": [
+          "All records from the employees table",
+          "All employees in the Sales department",
+          "All employees with a department column equal to 'Sales'"
+        ]
+      },
+      {
+        "type": "multiple",
+        "category": "SQL",
+        "difficulty": "easy",
+        "question": "Which SQL keyword is used to create a new table?",
+        "correct_answer": "CREATE TABLE",
+        "incorrect_answers": [
+          "NEW TABLE",
+          "ADD TABLE",
+          "MAKE TABLE"
+        ]
+      },
+      {
+        "type": "multiple",
+        "category": "SQL",
+        "difficulty": "medium",
+        "question": "Which SQL function is used to extract a substring from a string?",
+        "correct_answer": "SUBSTRING()",
+        "incorrect_answers": [
+          "EXTRACT()",
+          "STRING()",
+          "CUT()"
+        ]
+      },
+      {
+        "type": "multiple",
+        "category": "SQL",
+        "difficulty": "easy",
+        "question": "Which SQL keyword is used to rename a table?",
+        "correct_answer": "ALTER TABLE",
+        "incorrect_answers": [
+          "RENAME TABLE",
+          "CHANGE TABLE",
+          "MODIFY TABLE"
+        ]
+      },
+      {
+        "type": "multiple",
+        "category": "SQL",
+        "difficulty": "medium",
+        "question": "What is the result of the following SQL query?\n\nSELECT DISTINCT department FROM employees;",
+        "correct_answer": "Unique department values from the employees table",
+        "incorrect_answers": [
+          "All records from the employees table",
+          "All employees with distinct departments",
+          "Distinct department names from the employees table"
+        ]
+      },
+      {
+        "type": "multiple",
+        "category": "SQL",
+        "difficulty": "easy",
+        "question": "Which SQL keyword is used to add a new column to a table?",
+        "correct_answer": "ALTER TABLE",
+        "incorrect_answers": [
+          "ADD COLUMN",
+          "CREATE COLUMN",
+          "INSERT COLUMN"
+        ]
+      },
+      {
+        "type": "multiple",
+        "category": "SQL",
+        "difficulty": "medium",
+        "question": "Which SQL function is used to convert a string to uppercase?",
+        "correct_answer": "UPPER()",
+        "incorrect_answers": [
+          "CASE()",
+          "CAPITALIZE()",
+          "Uppercase()"
+        ]
+      },
+      {
+        "type": "multiple",
+        "category": "SQL",
+        "difficulty": "easy",
+        "question": "Which SQL keyword is used to delete a table?",
+        "correct_answer": "DROP TABLE",
+        "incorrect_answers": [
+          "REMOVE TABLE",
+          "DELETE TABLE",
+          "ERASE TABLE"
+        ]
+      },
+      {
+        "type": "multiple",
+        "category": "SQL",
+        "difficulty": "medium",
+        "question": "What is the result of the following SQL query?\n\nSELECT * FROM employees ORDER BY salary DESC;",
+        "correct_answer": "All records from the employees table sorted by salary in descending order",
+        "incorrect_answers": [
+          "All employees sorted by salary",
+          "All employees with a salary column in descending order",
+          "All employees ordered by salary"
+        ]
+      },
+      {
+        "type": "multiple",
+        "category": "SQL",
+        "difficulty": "easy",
+        "question": "Which SQL keyword is used to create a new database?",
+        "correct_answer": "CREATE DATABASE",
+        "incorrect_answers": [
+          "NEW DATABASE",
+          "ADD DATABASE",
+          "MAKE DATABASE"
+        ]
+      },
+      {
+        "type": "multiple",
+        "category": "SQL",
+        "difficulty": "medium",
+        "question": "Which SQL function is used to find the length of a string?",
+        "correct_answer": "LENGTH()",
+        "incorrect_answers": [
+          "SIZE()",
+          "CHAR_LENGTH()",
+          "STRLEN()"
+        ]
+      },
+      {
+        "type": "multiple",
+        "category": "SQL",
+        "difficulty": "easy",
+        "question": "Which SQL keyword is used to select all columns from a table?",
+        "correct_answer": "*",
+        "incorrect_answers": [
+          "ALL",
+          "EVERY",
+          "COLUMN"
+        ]
+      }
+    ]
+}        

@@ -1,0 +1,325 @@
+{"response_code":0,"results":
+
+[
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "easy",
+    "question": "What does CSS stand for?",
+    "correct_answer": "Cascading Style Sheets",
+    "incorrect_answers": [
+      "Computer Style Sheets",
+      "Creative Style Sheets",
+      "Colorful Style Sheets"
+    ]
+  },
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "medium",
+    "question": "Which property is used to change the text color of an element in CSS?",
+    "correct_answer": "color",
+    "incorrect_answers": ["text-color", "font-color", "text-style"]
+  },
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "easy",
+    "question": "How do you include a comment in CSS?",
+    "correct_answer": "/* This is a comment */",
+    "incorrect_answers": [
+      "// This is a comment",
+      "<!-- This is a comment -->",
+      "# This is a comment"
+    ]
+  },
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "medium",
+    "question": "Which property is used to control the spacing between letters in a text?",
+    "correct_answer": "letter-spacing",
+    "incorrect_answers": ["word-spacing", "line-height", "text-spacing"]
+  },
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "easy",
+    "question": "What is the correct CSS syntax for making all the <p> elements bold?",
+    "correct_answer": "p { font-weight: bold; }",
+    "incorrect_answers": [
+      "p { style: bold; }",
+      "<p style=\"font-weight: bold;\">",
+      "p { text: bold; }"
+    ]
+  },
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "medium",
+    "question": "Which property is used to change the background color of an element in CSS?",
+    "correct_answer": "background-color",
+    "incorrect_answers": ["color", "background", "bgcolor"]
+  },
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "easy",
+    "question": "Which CSS property is used to control the size of text?",
+    "correct_answer": "font-size",
+    "incorrect_answers": ["text-size", "font-style", "size"]
+  },
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "medium",
+    "question": "Which CSS property is used to change the left margin of an element?",
+    "correct_answer": "margin-left",
+    "incorrect_answers": ["padding-left", "margin", "margin-right"]
+  },
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "easy",
+    "question": "Which CSS property is used to change the font of an element?",
+    "correct_answer": "font-family",
+    "incorrect_answers": ["text-style", "font", "font-type"]
+  },
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "medium",
+    "question": "Which CSS property is used to make text italic?",
+    "correct_answer": "font-style: italic;",
+    "incorrect_answers": [
+      "text-style: italic;",
+      "font: italic;",
+      "style: italic;"
+    ]
+  },
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "easy",
+    "question": "Which CSS property is used to specify the distance between the lines in a text?",
+    "correct_answer": "line-height",
+    "incorrect_answers": ["spacing", "line-spacing", "text-spacing"]
+  },
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "medium",
+    "question": "Which CSS property is used to control the order of the elements along the z-axis?",
+    "correct_answer": "z-index",
+    "incorrect_answers": ["order", "position", "depth"]
+  },
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "easy",
+    "question": "What is the correct CSS syntax for making the background color of all <h1> elements yellow?",
+    "correct_answer": "h1 { background-color: yellow; }",
+    "incorrect_answers": [
+      "h1 { color: yellow; }",
+      "h1 { bgcolor: yellow; }",
+      "<h1 style=\"background-color: yellow;\">"
+    ]
+  },
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "medium",
+    "question": "Which CSS property is used to add shadows to text?",
+    "correct_answer": "text-shadow",
+    "incorrect_answers": ["shadow", "box-shadow", "font-shadow"]
+  },
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "easy",
+    "question": "Which CSS property is used to create space around elements, outside of any defined borders?",
+    "correct_answer": "margin",
+    "incorrect_answers": ["padding", "border", "spacing"]
+  },
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "medium",
+    "question": "Which CSS property is used to change the size of the space between characters?",
+    "correct_answer": "word-spacing",
+    "incorrect_answers": ["letter-spacing", "line-height", "spacing"]
+  },
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "easy",
+    "question": "What is the correct CSS syntax for making a hyperlink color red and removing the underline?",
+    "correct_answer": "a { color: red; text-decoration: none; }",
+    "incorrect_answers": [
+      "a { color: red; underline: none; }",
+      "a { color: red; text-decoration: none; }",
+      "<a style=\"color: red; text-decoration: none;\">"
+    ]
+  },
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "medium",
+    "question": "Which CSS property is used to set the transparency of an element?",
+    "correct_answer": "opacity",
+    "incorrect_answers": ["transparent", "visibility", "display"]
+  },
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "easy",
+    "question": "What is the correct CSS syntax for making all <p> elements have a font size of 20 pixels?",
+    "correct_answer": "p { font-size: 20px; }",
+    "incorrect_answers": [
+      "p { size: 20px; }",
+      "p { font-size: 20; }",
+      "<p style=\"font-size: 20px;\">"
+    ]
+  },
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "medium",
+    "question": "Which CSS property is used to change the background image of an element?",
+    "correct_answer": "background-image",
+    "incorrect_answers": ["image", "background", "background-color"]
+  },
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "easy",
+    "question": "Which CSS property is used to specify the type of cursor to be displayed when pointing on an element?",
+    "correct_answer": "cursor",
+    "incorrect_answers": ["pointer", "type", "mouse"]
+  },
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "medium",
+    "question": "Which CSS property is used to create rounded corners on an element?",
+    "correct_answer": "border-radius",
+    "incorrect_answers": ["corner-radius", "border-style", "rounded"]
+  },
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "easy",
+    "question": "Which CSS property is used to align text?",
+    "correct_answer": "text-align",
+    "incorrect_answers": ["align-text", "text-position", "align"]
+  },
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "medium",
+    "question": "Which CSS property is used to specify the minimum number of lines an element should break within?",
+    "correct_answer": "min-lines",
+    "incorrect_answers": ["break-lines", "line-break", "min-height"]
+  },
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "easy",
+    "question": "Which CSS property is used to control the flow and appearance of text when it overflows the content box?",
+    "correct_answer": "overflow",
+    "incorrect_answers": ["text-overflow", "text-wrap", "flow"]
+  },
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "medium",
+    "question": "Which CSS property is used to create a shadow effect around an element's frame?",
+    "correct_answer": "box-shadow",
+    "incorrect_answers": ["shadow", "element-shadow", "frame-shadow"]
+  },
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "easy",
+    "question": "Which CSS property is used to set the width of an element's border?",
+    "correct_answer": "border-width",
+    "incorrect_answers": ["border-size", "border-style", "width"]
+  },
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "medium",
+    "question": "Which CSS property is used to specify the color of the top border of an element?",
+    "correct_answer": "border-top-color",
+    "incorrect_answers": [
+      "top-border-color",
+      "border-color-top",
+      "border-color"
+    ]
+  },
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "easy",
+    "question": "Which CSS property is used to set the style of an element's border?",
+    "correct_answer": "border-style",
+    "incorrect_answers": ["style", "border", "border-type"]
+  },
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "medium",
+    "question": "Which CSS property is used to specify the distance between the outer edges of an element and its content?",
+    "correct_answer": "padding",
+    "incorrect_answers": ["spacing", "margin", "border-spacing"]
+  },
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "easy",
+    "question": "Which CSS property is used to set the style of the cursor when hovering over an element?",
+    "correct_answer": "cursor",
+    "incorrect_answers": ["hover", "mouse-cursor", "pointer"]
+  },
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "medium",
+    "question": "Which CSS property is used to specify the space between words in a text?",
+    "correct_answer": "word-spacing",
+    "incorrect_answers": ["letter-spacing", "text-spacing", "spacing"]
+  },
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "easy",
+    "question": "Which CSS property is used to set the color of an element's border?",
+    "correct_answer": "border-color",
+    "incorrect_answers": ["color", "border", "border-style"]
+  },
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "medium",
+    "question": "Which CSS property is used to specify the stack level of an element?",
+    "correct_answer": "z-index",
+    "incorrect_answers": ["stack-order", "layer-index", "depth"]
+  },
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "easy",
+    "question": "Which CSS property is used to set the spacing between lines of text?",
+    "correct_answer": "line-height",
+    "incorrect_answers": ["text-spacing", "line-spacing", "spacing"]
+  },
+  {
+    "type": "multiple",
+    "category": "CSS",
+    "difficulty": "medium",
+    "question": "Which CSS property is used to create a border image?",
+    "correct_answer": "border-image",
+    "incorrect_answers": ["image", "border-style", "image-border"]
+  }
+]
+}

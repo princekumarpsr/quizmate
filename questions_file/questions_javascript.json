@@ -1,0 +1,260 @@
+{"response_code":0,"results":
+[
+{
+    "type": "multiple",
+    "category": "JavaScript",
+    "difficulty": "easy",
+    "question": "What is the correct syntax for referring to an external script called 'script.js' in JavaScript?",
+    "correct_answer": "<script src='script.js'></script>",
+    "incorrect_answers": ["<script href='script.js'></script>", "<script name='script.js'></script>", "<script link='script.js'></script>"]
+},
+{
+    "type": "multiple",
+    "category": "JavaScript",
+    "difficulty": "medium",
+    "question": "What is the output of the following JavaScript code snippet?\n\nconsole.log(2 + '2' + 2);",
+    "correct_answer": "222",
+    "incorrect_answers": ["6", "2222", "SyntaxError"]
+},
+{
+    "type": "multiple",
+    "category": "JavaScript",
+    "difficulty": "easy",
+    "question": "Which built-in method returns the string representation of the number's value?",
+    "correct_answer": "toString()",
+    "incorrect_answers": ["toNumber()", "valueOf()", "string()"]
+},
+{
+    "type": "multiple",
+    "category": "JavaScript",
+    "difficulty": "medium",
+    "question": "What is the output of the following JavaScript code snippet?\n\nconsole.log(1 + '1' - 1);",
+    "correct_answer": "10",
+    "incorrect_answers": ["11", "1", "SyntaxError"]
+},
+{
+    "type": "multiple",
+    "category": "JavaScript",
+    "difficulty": "easy",
+    "question": "Which built-in method converts a string to lowercase letters?",
+    "correct_answer": "toLowerCase()",
+    "incorrect_answers": ["toLower()", "changeCase('lower')", "lowerCase()"]
+},
+{
+    "type": "multiple",
+    "category": "JavaScript",
+    "difficulty": "medium",
+    "question": "What is the output of the following JavaScript code snippet?\n\nvar x = 0;\nfunction foo() {\n  console.log(x);\n  x = 10;\n}\nfoo();",
+    "correct_answer": "0",
+    "incorrect_answers": ["10", "undefined", "ReferenceError"]
+},
+{
+    "type": "multiple",
+    "category": "JavaScript",
+    "difficulty": "easy",
+    "question": "Which built-in method sorts the elements of an array?",
+    "correct_answer": "sort()",
+    "incorrect_answers": ["order()", "arrange()", "sequence()"]
+},
+{
+    "type": "multiple",
+    "category": "JavaScript",
+    "difficulty": "medium",
+    "question": "What is the output of the following JavaScript code snippet?\n\nvar x = 0;\nfunction foo() {\n  console.log(x);\n  var x = 10;\n}\nfoo();\nconsole.log(x);",
+    "correct_answer": "0\n0",
+    "incorrect_answers": ["10\n10", "undefined\n10", "0\nundefined"]
+},
+{
+    "type": "multiple",
+    "category": "JavaScript",
+    "difficulty": "easy",
+    "question": "Which built-in method reverses the order of the elements of an array?",
+    "correct_answer": "reverse()",
+    "incorrect_answers": ["sort()", "changeOrder()", "flip()"]
+},
+{
+    "type": "multiple",
+    "category": "JavaScript",
+    "difficulty": "medium",
+    "question": "What is the output of the following JavaScript code snippet?\n\nconsole.log(1 + '1' + 1);",
+    "correct_answer": "111",
+    "incorrect_answers": ["3", "1111", "SyntaxError"]
+},
+{
+    "type": "multiple",
+    "category": "JavaScript",
+    "difficulty": "easy",
+    "question": "Which built-in method removes the first element from an array and returns that removed element?",
+    "correct_answer": "shift()",
+    "incorrect_answers": ["pop()", "removeFirst()", "unshift()"]
+},
+{
+    "type": "multiple",
+    "category": "JavaScript",
+    "difficulty": "medium",
+    "question": "What is the output of the following JavaScript code snippet?\n\nvar x = 0;\nfunction foo() {\n  console.log(x);\n  x = 10;\n}\nfoo();\nconsole.log(x);",
+    "correct_answer": "0\n10",
+    "incorrect_answers": ["10\n10", "undefined\n10", "0\nundefined"]
+},
+{
+    "type": "multiple",
+    "category": "JavaScript",
+    "difficulty": "easy",
+    "question": "Which built-in method returns the characters in a string beginning at the specified location?",
+    "correct_answer": "slice()",
+    "incorrect_answers": ["split()", "substring()", "substr()"]
+},
+{
+    "type": "multiple",
+    "category": "JavaScript",
+    "difficulty": "medium",
+    "question": "What is the output of the following JavaScript code snippet?\n\nconsole.log(1 + '1' - '1');",
+    "correct_answer": "10",
+    "incorrect_answers": ["1", "11", "SyntaxError"]
+},
+{
+    "type": "multiple",
+    "category": "JavaScript",
+    "difficulty": "easy",
+    "question": "Which built-in method returns the calling string value converted to upper case?",
+    "correct_answer": "toUpperCase()",
+    "incorrect_answers": ["toUpper()", "changeCase('upper')", "upperCase()"]
+},
+{
+    "type": "multiple",
+    "category": "JavaScript",
+    "difficulty": "medium",
+    "question": "What is the output of the following JavaScript code snippet?\n\nconsole.log(1 + '1' + 1 - 1);",
+    "correct_answer": "10",
+    "incorrect_answers": ["3", "11", "SyntaxError"]
+},
+{
+    "type": "multiple",
+    "category": "JavaScript",
+    "difficulty": "easy",
+    "question": "Which built-in method returns the index within the calling String object of the last occurrence of the specified value?",
+    "correct_answer": "lastIndexOf()",
+    "incorrect_answers": ["indexOf()", "search()", "findIndex()"]
+},
+{
+    "type": "multiple",
+    "category": "JavaScript",
+    "difficulty": "medium",
+    "question": "What is the output of the following JavaScript code snippet?\n\nconsole.log(+'2' + '2');",
+    "correct_answer": "22",
+    "incorrect_answers": ["4", "SyntaxError", "NaN"]
+},
+{
+    "type": "multiple",
+    "category": "JavaScript",
+    "difficulty": "easy",
+    "question": "Which built-in method returns the string representation of the number's value without the sign?",
+    "correct_answer": "abs()",
+    "incorrect_answers": ["getAbs()", "absolute()", "removeSign()"]
+},
+{
+    "type": "multiple",
+    "category": "JavaScript",
+    "difficulty": "easy",
+    "question": "Which built-in method returns the characters in a string beginning at the specified location through the specified number of characters?",
+    "correct_answer": "substring()",
+    "incorrect_answers": ["substr()", "slice()", "splice()"]
+},
+{
+    "type": "multiple",
+    "category": "JavaScript",
+    "difficulty": "medium",
+    "question": "What is the output of the following JavaScript code snippet?\n\nconsole.log(2 * '2');",
+    "correct_answer": "4",
+    "incorrect_answers": ["22", "2", "SyntaxError"]
+},
+{
+    "type": "multiple",
+    "category": "JavaScript",
+    "difficulty": "easy",
+    "question": "Which keyword is used to declare a function in JavaScript?",
+    "correct_answer": "function",
+    "incorrect_answers": ["method", "func", "declare"]
+},
+{
+    "type": "multiple",
+    "category": "JavaScript",
+    "difficulty": "medium",
+    "question": "What is the output of the following JavaScript code snippet?\n\nvar x = 0;\nfunction foo() {\n  console.log(x);\n  var x = 10;\n}\nfoo();",
+    "correct_answer": "undefined",
+    "incorrect_answers": ["0", "10", "ReferenceError"]
+},
+{
+    "type": "multiple",
+    "category": "JavaScript",
+    "difficulty": "easy",
+    "question": "Which built-in method returns the index within the calling String object of the first occurrence of the specified value?",
+    "correct_answer": "indexOf()",
+    "incorrect_answers": ["search()", "find()", "locate()"]
+},
+{
+    "type": "multiple",
+    "category": "JavaScript",
+    "difficulty": "medium",
+    "question": "What is the output of the following JavaScript code snippet?\n\nconsole.log(+'2' - 1);",
+    "correct_answer": "1",
+    "incorrect_answers": ["2", "21", "SyntaxError"]
+},
+{
+    "type": "multiple",
+    "category": "JavaScript",
+    "difficulty": "easy",
+    "question": "Which built-in method removes the last element from an array and returns that element?",
+    "correct_answer": "pop()",
+    "incorrect_answers": ["shift()", "delete()", "splice()"]
+},
+{
+    "type": "multiple",
+    "category": "JavaScript",
+    "difficulty": "medium",
+    "question": "What is the output of the following JavaScript code snippet?\n\nconsole.log(typeof typeof 1);",
+    "correct_answer": "string",
+    "incorrect_answers": ["number", "object", "undefined"]
+},
+{
+    "type": "multiple",
+    "category": "JavaScript",
+    "difficulty": "easy",
+    "question": "Which built-in method returns the length of the string?",
+    "correct_answer": "length",
+    "incorrect_answers": ["size()", "count()", "lengthOf()"]
+},
+{
+    "type": "multiple",
+    "category": "JavaScript",
+    "difficulty": "medium",
+    "question": "What is the output of the following JavaScript code snippet?\n\nvar a = [1, 2, 3];\nconsole.log(a[6]);",
+    "correct_answer": "undefined",
+    "incorrect_answers": ["0", "1", "ReferenceError"]
+},
+{
+    "type": "multiple",
+    "category": "JavaScript",
+    "difficulty": "easy",
+    "question": "What is the correct syntax for referring to an external script called 'script.js' in JavaScript?",
+    "correct_answer": "<script src='script.js'></script>",
+    "incorrect_answers": ["<script href='script.js'></script>", "<script name='script.js'></script>", "<script link='script.js'></script>"]
+},
+{
+    "type": "multiple",
+    "category": "JavaScript",
+    "difficulty": "medium",
+    "question": "What is the output of the following JavaScript code snippet?\n\nconsole.log(2 + '2' + 2);",
+    "correct_answer": "222",
+    "incorrect_answers": ["6", "2222", "SyntaxError"]
+},
+{
+    "type": "multiple",
+    "category": "JavaScript",
+    "difficulty": "easy",
+    "question": "Which built-in method returns the string representation of the number's value?",
+    "correct_answer": "toString()",
+    "incorrect_answers": ["toNumber()", "valueOf()", "string()"]
+}
+]
+}
